@@ -1,7 +1,8 @@
 import React from "react";
 import "./ProfilePage.css";
 // Importing images for the profile
-import ProfileBackground from "/home/newton/social-media-app/src/components/assets/profilebackground.jpeg";
+import ProfileBackground from "../assets/profilebackground.jpeg";
+
 import MyProfileImage from "/home/newton/social-media-app/src/components/assets/profile.jpeg";
 import AliceProfile from "/home/newton/social-media-app/src/components/assets/post6.jpeg";
 import BobProfile from "./assets/Bobprofile.jpg"; // Retains Bob's profile
